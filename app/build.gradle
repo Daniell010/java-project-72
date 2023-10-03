@@ -70,8 +70,10 @@ jacocoTestReport {
     }
 }
 
-jacoco {
-    toolVersion = "0.8.8"
+jacocoTestReport {
+    reports {
+        xml.required = true
+    }
 }
 
 testlogger {

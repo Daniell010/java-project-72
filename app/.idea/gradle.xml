@@ -4,8 +4,10 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="/home/daniel/.asdf/installs/gradle/8.2" />
+        <option name="gradleJvm" value="openjdk-20 (WSL)" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
